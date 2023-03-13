@@ -1,1 +1,1 @@
-print('helo werf;gf;;f')
+print('helo f;;f')
